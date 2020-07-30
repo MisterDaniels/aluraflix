@@ -1,0 +1,31 @@
+{
+  "categorias": [
+    {
+      "titulo": "Curb you",
+      "link": "https://www.youtube.com/results?search_query=curb+your",
+      "cor": "#030303",
+      "link_extra": {
+        "text": "Por que as vezes a gente precisa de algo pra distrair...",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Curb your compifuckinglation",
+          "url": "https://www.youtube.com/watch?v=LNiW-9JybIo&t"
+        },
+        {
+          "titulo": "Curb your pipeline",
+          "url": "https://www.youtube.com/watch?v=w8l32G5jO9c"
+        },
+        {
+          "titulo": "Curb your safe bridge",
+          "url": "https://www.youtube.com/watch?v=KtlQfk9-UPE"
+        },
+        {
+          "titulo": "Curb your iphone scam",
+          "url": "https://www.youtube.com/watch?v=pqNKvRG9bUY"
+        }    
+      ]
+    }
+  ]
+}
